@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: D:\Development\AzureFaceRecognition-master\facedemo\src\ma
+ in\java
+Main-Class: com.face.demo.FacedemoApplication
+
